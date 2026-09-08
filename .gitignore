@@ -45,3 +45,8 @@ Thumbs.db
 
 ## SQLite demo artifacts
 *.db
+
+## Visual Studio upgrade artifacts
+Backup/
+_UpgradeReport_Files/
+UpgradeLog*.htm
