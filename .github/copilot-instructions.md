@@ -3,8 +3,7 @@
 ## Contexte du projet
 Il s'agit d'un petit dépôt de démonstration servant à présenter les capacités de GitHub Copilot.
 Il contient un module d'inventaire hérité adossé à SQLite et un module de panier d'achat,
-tous deux volontairement imparfaits afin que Copilot ait un vrai travail à accomplir. C'est un portage
-.NET 8 (C#) du kit de démo JavaScript + Python d'origine.
+tous deux volontairement imparfaits afin que Copilot ait un vrai travail à accomplir.
 
 ## Normes de codage
 - C# : cibler .NET 8, activer les types référence nullables, préférer les `records` pour les objets valeur,

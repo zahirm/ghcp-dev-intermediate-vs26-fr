@@ -1,9 +1,9 @@
-# Kit de démo Copilot GH-300 — édition .NET 8
+# Kit de démo GitHub Copilot Dev Intermediate — édition .NET 8
 
 Un kit compact et autonome pour démontrer les capacités de GitHub Copilot pendant
 la préparation au GH-300.
 
-- Porté vers **.NET 8 (C#)** et adapté pour **Visual Studio 2026**.
+- Cible **.NET 8 (C#)** et adapté pour **Visual Studio 2026**.
 - Fonctionne aussi dans **VS Code** avec le C# Dev Kit.
 - Les deux modules sources sont **volontairement imparfaits** — un bogue de décalage d'un cran, un
   numéro de carte journalisé, une injection SQL, aucune documentation et (presque) aucun test — afin que Copilot ait un vrai
@@ -16,8 +16,8 @@ la préparation au GH-300.
 ```
 CopilotDemoKit.sln
 ├─ src/
-│  ├─ ShoppingCart/        ShoppingCart\Cart.cs            (portage de cart.js)
-│  ├─ InventoryLegacy/     InventoryLegacy\InventoryLegacy.cs (portage de inventory_legacy.py)
+│  ├─ ShoppingCart/        ShoppingCart\Cart.cs
+│  ├─ InventoryLegacy/     InventoryLegacy\InventoryLegacy.cs
 │  └─ DemoApp/             Program.cs — pilote qui exerce les deux modules
 ├─ tests/
 │  └─ ShoppingCart.Tests/  volontairement minimal — le manque « aucun test » pour la démo /tests

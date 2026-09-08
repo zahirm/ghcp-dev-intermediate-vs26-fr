@@ -1,6 +1,6 @@
 // Module d'inventaire hérité - style volontairement daté, sans tests, sans documentation.
 // Cible de démo pour : expliquer, refactoriser, documenter, moderniser, générer des tests, trouver des cas limites.
-// Porté depuis le fichier Python d'origine src/inventory_legacy.py. Les défauts ci-dessous sont intentionnels.
+// Les défauts ci-dessous sont intentionnels.
 
 using Microsoft.Data.Sqlite;
 

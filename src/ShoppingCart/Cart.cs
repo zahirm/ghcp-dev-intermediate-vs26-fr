@@ -1,6 +1,6 @@
 // Module de panier d'achat comportant plusieurs défauts délibérés.
 // Cible de démo pour : suggestions en ligne, Copilot Chat /fix, Copilot Edits, revue de code, tests.
-// Porté depuis le fichier JavaScript d'origine src/cart.js. Les défauts ci-dessous sont intentionnels.
+// Les défauts ci-dessous sont intentionnels.
 
 namespace ShoppingCart;
 
